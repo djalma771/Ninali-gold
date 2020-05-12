@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://blog.donadivasemijoias.com.br/wp-content/uploads/2019/12/como-escolher-semijoias-elegrantes-para-revender-1080x564.jpg');
+    background-size: 840px ;
+    heigth: 400vh;
+    font-family: arial
+  }
+  .menu{
+    background-color: Wheat1;
+    }
+  .menu li {
+    list-style: none
+  }
+  .menu ul {
+    display: flex;
+    justify-content:space-around;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #CDC9C9;
+    }
+  a:hover {
+   text-decoration: underline;
+  }
+  .menu li {
+    list-style: none
+  }
+  .site-subtitle,
+  .site-title{
+    text-align:center;
+    color:#FFE4E1
+  }
+  .site-subtitle{
+    font-style: arial;
+  }
+  
